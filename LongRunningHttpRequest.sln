@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongRunningHttpRequest", "LongRunningHttpRequest\LongRunningHttpRequest.csproj", "{455A54AA-F385-452C-8E8E-9E85493F0341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongRunningHttpRequest.Console", "LongRunningHttpRequest.Console\LongRunningHttpRequest.Console.csproj", "{371EF506-91A3-4736-8749-E796F2C64D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455A54AA-F385-452C-8E8E-9E85493F0341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455A54AA-F385-452C-8E8E-9E85493F0341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455A54AA-F385-452C-8E8E-9E85493F0341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455A54AA-F385-452C-8E8E-9E85493F0341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371EF506-91A3-4736-8749-E796F2C64D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371EF506-91A3-4736-8749-E796F2C64D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371EF506-91A3-4736-8749-E796F2C64D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371EF506-91A3-4736-8749-E796F2C64D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="455A54AA-F385-452C-8E8E-9E85493F0341" ModuleId="LongRunningHttpRequest" />
+  <Module PersistentId="371EF506-91A3-4736-8749-E796F2C64D69" ModuleId="LongRunningHttpRequest.Console" />
+</Modules>

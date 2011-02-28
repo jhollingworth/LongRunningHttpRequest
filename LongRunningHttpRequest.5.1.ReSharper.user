@@ -1,0 +1,106 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Web.config" caret="10466" fromTop="48" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Global.asax.cs" caret="714" fromTop="21" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="670" fromTop="20" />
+      <File id="371EF506-91A3-4736-8749-E796F2C64D69/f:Program.cs" caret="589" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="105" fromTop="4" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="385" fromTop="14" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="1010" fromTop="10" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="1344" fromTop="18" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="1590" fromTop="27" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="1949" fromTop="37" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="568" fromTop="20" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/d:Handlers/f:LongRunningRequestHandler.cs" caret="294" fromTop="10" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Web.config" caret="9782" fromTop="37" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Web.config" caret="10466" fromTop="48" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Global.asax.cs" caret="569" fromTop="17" />
+      <File id="455A54AA-F385-452C-8E8E-9E85493F0341/f:Global.asax.cs" caret="714" fromTop="21" />
+      <File id="371EF506-91A3-4736-8749-E796F2C64D69/f:Program.cs" caret="588" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="2" />
+      <Item value="false" priority="3" />
+      <Item value="private" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="IAsyncResult`0" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="AsyncCallback`0" priority="0" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="Object`0" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="ThreadPool`0" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="WaitCallback" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="_context" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="InvalidOperationException`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="request" priority="1" />
+      <Item value="response" priority="0" />
+      <Item value="stream" priority="1" />
+      <Item value="Console`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Response" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToShortTimeString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Method" priority="0" />
+      <Item value="GetResponse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="CanRead" priority="1" />
+      <Item value="ReadByte`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

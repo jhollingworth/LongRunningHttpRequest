@@ -1,0 +1,5 @@
+C:\src\temp\LongRunningHttpRequest\LongRunningHttpRequest\bin\LongRunningHttpRequest.dll
+C:\src\temp\LongRunningHttpRequest\LongRunningHttpRequest\bin\LongRunningHttpRequest.pdb
+C:\src\temp\LongRunningHttpRequest\LongRunningHttpRequest\obj\Debug\ResolveAssemblyReference.cache
+C:\src\temp\LongRunningHttpRequest\LongRunningHttpRequest\obj\Debug\LongRunningHttpRequest.dll
+C:\src\temp\LongRunningHttpRequest\LongRunningHttpRequest\obj\Debug\LongRunningHttpRequest.pdb
